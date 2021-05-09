@@ -8,3 +8,9 @@ data rozpoczecia: 09.05.2021
 ![Image](https://octodex.github.com/images/bewitchedtocat.jpg)
 
 Instrukcja obslugi
+
+lista
+
+-zmiana 1
+-zmiana 2
+-zmiana 3
