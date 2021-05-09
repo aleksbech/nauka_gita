@@ -24,3 +24,5 @@ Kolejna zmiana
 zmiany zmiany zmiany
 
 ![Image] (https://octodex.github.com/images/spocktocat.png)
+
+cokolwiek
