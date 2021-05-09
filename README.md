@@ -6,3 +6,5 @@ data rozpoczecia: 09.05.2021
 
 ## Witchcat
 ![Image](https://octodex.github.com/images/bewitchedtocat.jpg)
+
+Instrukcja obslugi
