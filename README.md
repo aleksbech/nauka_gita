@@ -17,3 +17,7 @@ lista
 
 Kolejna zmiana
 :smile:
+🐱
+😈
++
++
